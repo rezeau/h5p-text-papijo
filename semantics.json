@@ -9,6 +9,7 @@
     "tags": [
       "strong",
       "em",
+      "u",
       "del",
       "a",
       "ul",
@@ -18,6 +19,12 @@
       "hr",
       "pre",
       "code"
-    ]
+    ],
+    "font": {
+      "size": true,
+      "family": true,
+      "color": true,
+      "background": true
+    }
   }
 ]
