@@ -1,3 +1,9 @@
+.h5p-text {
+  border: 1px solid #EEE;  
+  padding: 1em;
+  font-size: 16px;
+  line-height: 1.5em;
+}
 .h5p-text ul,
 .h5p-text li {
     padding-left: 0;
